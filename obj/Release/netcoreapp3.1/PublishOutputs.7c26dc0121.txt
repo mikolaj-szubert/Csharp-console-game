@@ -1,0 +1,5 @@
+C:\Users\Hack3r\Desktop\MultiProgram\bin\Release\netcoreapp3.1\MultiProgram.exe
+C:\Users\Hack3r\Desktop\MultiProgram\bin\Release\netcoreapp3.1\MultiProgram.dll
+C:\Users\Hack3r\Desktop\MultiProgram\bin\Release\netcoreapp3.1\MultiProgram.deps.json
+C:\Users\Hack3r\Desktop\MultiProgram\bin\Release\netcoreapp3.1\MultiProgram.runtimeconfig.json
+C:\Users\Hack3r\Desktop\MultiProgram\bin\Release\netcoreapp3.1\MultiProgram.pdb

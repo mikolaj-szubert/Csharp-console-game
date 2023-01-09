@@ -1,0 +1,5 @@
+C:\Users\Hack3r\Desktop\MultiProgram.exe
+C:\Users\Hack3r\Desktop\MultiProgram.dll
+C:\Users\Hack3r\Desktop\MultiProgram.deps.json
+C:\Users\Hack3r\Desktop\MultiProgram.runtimeconfig.json
+C:\Users\Hack3r\Desktop\MultiProgram.pdb
